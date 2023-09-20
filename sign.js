@@ -185,14 +185,12 @@
     }
     
     
-    
     ;;
     
      
     function Calendar(element, options, eventSources) {
         var t = this;
-        
-        
+
         // exports
         t.options = options;
         t.render = render;

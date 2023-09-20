@@ -1,0 +1,20 @@
+[
+{"type":"header","version":"5.1.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"e7try"},
+{"type":"table","name":"signform","database":"e7try","data":
+[
+{"mId":"1","stime":"2022-06-11 00:00:00","point":"0"},
+{"mId":"1","stime":"2022-06-13 00:00:00","point":"0"},
+{"mId":"1","stime":"2022-06-15 13:16:36","point":"1"},
+{"mId":"1","stime":"2022-06-17 13:16:36","point":"2"},
+{"mId":"1","stime":"2022-06-18 00:00:00","point":"0"},
+{"mId":"1","stime":"2022-06-19 16:48:51","point":"0"},
+{"mId":"1","stime":"2022-06-20 15:46:43","point":"5"},
+{"mId":"1","stime":"2022-06-21 09:30:33","point":"5"},
+{"mId":"21","stime":"2022-06-21 09:48:10","point":"5"},
+{"mId":"22","stime":"2022-06-21 10:03:43","point":"5"},
+{"mId":"14","stime":"2023-01-22 02:33:24","point":"5"},
+{"mId":"23","stime":"2023-09-20 09:58:51","point":"0"}
+]
+}
+]
