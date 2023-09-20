@@ -1,4 +1,4 @@
-[
+var signform=[
 {"type":"header","version":"5.1.1","comment":"Export to JSON plugin for PHPMyAdmin"},
 {"type":"database","name":"e7try"},
 {"type":"table","name":"signform","database":"e7try","data":
