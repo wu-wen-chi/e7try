@@ -1,6 +1,6 @@
 <?php
 session_start();
-// $n=$_SESSION['value'];
+$n=$_SESSION['value'];
 
 include('connect.php');
 
