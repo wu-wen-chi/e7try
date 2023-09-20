@@ -1,7 +1,4 @@
-var signform=[
-{"type":"header","version":"5.1.1","comment":"Export to JSON plugin for PHPMyAdmin"},
-{"type":"database","name":"e7try"},
-{"type":"table","name":"signform","database":"e7try","data":
+var signform=
 [
 {"mId":"1","stime":"2022-06-11 00:00:00","point":"0"},
 {"mId":"1","stime":"2022-06-13 00:00:00","point":"0"},
@@ -16,5 +13,4 @@ var signform=[
 {"mId":"14","stime":"2023-01-22 02:33:24","point":"5"},
 {"mId":"23","stime":"2023-09-20 09:58:51","point":"0"}
 ]
-}
-]
+export default signform;
