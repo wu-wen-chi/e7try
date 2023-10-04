@@ -8,12 +8,10 @@ const setData=(newData,action)=>{
         
     }
     else{
-        if (action==="member") {
-            localStorage.setItem("member", JSON.stringify([...member,newData]));
+        if (typeof action!=="undefined") {
+            localStorage.setItem(action, JSON.stringify([...member,newData]));
         }
-        else if(action==="signform"){
-            localStorage.setItem("signform", JSON.stringify([...signform,newData]));
-        }
+
     }
 
 }
