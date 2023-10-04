@@ -1,4 +1,8 @@
-import member from "../../data/json/member.js";
+
+import { setData } from "./data.js";
+
 $(document).ready(function () {
-    console.log(member);
+setData();
+
+
 });
